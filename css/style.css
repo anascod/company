@@ -84,6 +84,11 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #F85A16;
 }
 
+.prprr{
+  width: 50%;
+  text-shadow: #000;
+  height: 500px;
+}
 .gtco-container {
   max-width: 1140px;
   position: relative;
