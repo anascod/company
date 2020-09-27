@@ -141,13 +141,13 @@ h1, h2, h3, h4, h5, h6, figure {
   font-size: 24px;
   padding: 30px 10px;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgb(0, 0, 0);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 .gtco-nav ul li a:hover, .gtco-nav ul li a:focus, .gtco-nav ul li a:active {
-  color: white;
+  color: rgb(0, 0, 0);
 }
 .gtco-nav ul li.has-dropdown {
   position: relative;
@@ -232,11 +232,11 @@ h1, h2, h3, h4, h5, h6, figure {
   box-shadow: 0px 14px 20px -9px rgba(0, 0, 0, 0.75);
 }
 .gtco-nav ul li.active > a {
-  color: #fff !important;
+  color: rgb(0, 0, 0) !important;
 } 
 
 #gtco-header{
-  background-image: url(../images/lo1w3.png);
+  background-image: url(../images/logo54.jpeg);
 }
 
 #gtco-header,
@@ -341,7 +341,6 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.4);
 }
 .gtco-cover > .gtco-container {
   position: relative;
@@ -1122,11 +1121,11 @@ form label {
   transition: all .2s ease-out;
 }
 .gtco-nav-toggle.gtco-nav-white > i {
-  color: #fff;
-  background: #fff;
+  color: rgb(0, 0, 0);
+  background: rgb(0, 0, 0);
 }
 .gtco-nav-toggle.gtco-nav-white > i::before, .gtco-nav-toggle.gtco-nav-white > i::after {
-  background: #fff;
+  background: rgb(7, 7, 7);
 }
 
 .gtco-nav-toggle i::before {
